@@ -1,2 +1,2 @@
 # Hello-word
-Juste un autre repo.
+Just another repository.
